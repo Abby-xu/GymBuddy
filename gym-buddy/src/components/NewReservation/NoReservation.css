@@ -1,0 +1,36 @@
+.landing-page {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+}
+
+.title {
+    margin-top: 50px;
+    font-size: 38px;
+    margin-bottom: 35px;
+}
+
+.subtitle {
+    font-size: 22px;
+    margin-bottom: 45px;
+}
+
+.link-button {
+    text-decoration: none;
+}
+
+button {
+    padding: 16px 32px;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    color: white;
+    background-color: #51cad5;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2f419d;
+}

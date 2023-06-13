@@ -1,0 +1,847 @@
+[{
+    "_id": {
+      "$oid": "6417f905e2e9951b0257f8fb"
+    },
+    "equip_id": "001",
+    "equip_name": "Indoor Cycle",
+    "status": "maintenance",
+    "location": "A1",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417faf7e2e9951b0257f8fc"
+    },
+    "equip_id": "002",
+    "equip_name": "Indoor Cycle",
+    "status": "in-use",
+    "location": "A2",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fb20e2e9951b0257f8ff"
+    },
+    "equip_id": "003",
+    "equip_name": "Indoor Cycle",
+    "status": "avaliable",
+    "location": "A3",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fb2ce2e9951b0257f900"
+    },
+    "equip_id": "004",
+    "equip_name": "Indoor Cycle",
+    "status": "avaliable",
+    "location": "A4",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fb39e2e9951b0257f901"
+    },
+    "equip_id": "005",
+    "equip_name": "Indoor Cycle",
+    "status": "avaliable",
+    "location": "A5",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fb46e2e9951b0257f902"
+    },
+    "equip_id": "006",
+    "equip_name": "Recumbent",
+    "status": "avaliable",
+    "location": "A6",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fb5fe2e9951b0257f903"
+    },
+    "equip_id": "007",
+    "equip_name": "Recumbent",
+    "status": "avaliable",
+    "location": "A7",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fb6fe2e9951b0257f904"
+    },
+    "equip_id": "008",
+    "equip_name": "Recumbent",
+    "status": "avaliable",
+    "location": "A8",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fb7ae2e9951b0257f905"
+    },
+    "equip_id": "009",
+    "equip_name": "Recumbent",
+    "status": "avaliable",
+    "location": "A9",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fb84e2e9951b0257f906"
+    },
+    "equip_id": "010",
+    "equip_name": "Recumbent",
+    "status": "avaliable",
+    "location": "A10",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fb91e2e9951b0257f907"
+    },
+    "equip_id": "011",
+    "equip_name": "Recumbent",
+    "status": "avaliable",
+    "location": "A11",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fbf3e2e9951b0257f908"
+    },
+    "equip_id": "012",
+    "equip_name": "Rower",
+    "status": "avaliable",
+    "location": "C1",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fc0ce2e9951b0257f909"
+    },
+    "equip_id": "013",
+    "equip_name": "Rower",
+    "status": "avaliable",
+    "location": "C2",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fc18e2e9951b0257f90a"
+    },
+    "equip_id": "014",
+    "equip_name": "Rower",
+    "status": "avaliable",
+    "location": "C3",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fc42e2e9951b0257f90b"
+    },
+    "equip_id": "015",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C4",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fc57e2e9951b0257f90c"
+    },
+    "equip_id": "016",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C5",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fc85e2e9951b0257f90d"
+    },
+    "equip_id": "017",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C6",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fc8ee2e9951b0257f90e"
+    },
+    "equip_id": "018",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C7",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fc98e2e9951b0257f90f"
+    },
+    "equip_id": "019",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C8",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fcace2e9951b0257f910"
+    },
+    "equip_id": "020",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C9",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fcbde2e9951b0257f911"
+    },
+    "equip_id": "021",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C10",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fccbe2e9951b0257f912"
+    },
+    "equip_id": "022",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C11",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fcdae2e9951b0257f913"
+    },
+    "equip_id": "023",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C12",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fce8e2e9951b0257f914"
+    },
+    "equip_id": "024",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C13",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fcf7e2e9951b0257f915"
+    },
+    "equip_id": "025",
+    "equip_name": "Elliptical",
+    "status": "avaliable",
+    "location": "C14",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fd58e2e9951b0257f916"
+    },
+    "equip_id": "026",
+    "equip_name": "Stair Master",
+    "status": "avaliable",
+    "location": "E1",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fddee2e9951b0257f917"
+    },
+    "equip_id": "027",
+    "equip_name": "Stair Master",
+    "status": "avaliable",
+    "location": "E2",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fe2ee2e9951b0257f918"
+    },
+    "equip_id": "028",
+    "equip_name": "Stair Master",
+    "status": "avaliable",
+    "location": "E3",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fe3be2e9951b0257f919"
+    },
+    "equip_id": "029",
+    "equip_name": "Stair Master",
+    "status": "avaliable",
+    "location": "E4",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fe48e2e9951b0257f91a"
+    },
+    "equip_id": "030",
+    "equip_name": "Stair Master",
+    "status": "avaliable",
+    "location": "E5",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fe52e2e9951b0257f91b"
+    },
+    "equip_id": "031",
+    "equip_name": "Stair Master",
+    "status": "avaliable",
+    "location": "E6",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fe61e2e9951b0257f91c"
+    },
+    "equip_id": "032",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "E8",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fe78e2e9951b0257f91d"
+    },
+    "equip_id": "033",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "E9",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fe83e2e9951b0257f91e"
+    },
+    "equip_id": "034",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "E10",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fe91e2e9951b0257f91f"
+    },
+    "equip_id": "035",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "E11",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fe9fe2e9951b0257f920"
+    },
+    "equip_id": "036",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "E12",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417feaae2e9951b0257f921"
+    },
+    "equip_id": "037",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "G5",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417febee2e9951b0257f922"
+    },
+    "equip_id": "038",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "G6",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fec9e2e9951b0257f923"
+    },
+    "equip_id": "039",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "G7",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fed7e2e9951b0257f924"
+    },
+    "equip_id": "040",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "G8",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fee3e2e9951b0257f925"
+    },
+    "equip_id": "041",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "G9",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "6417fef1e2e9951b0257f926"
+    },
+    "equip_id": "042",
+    "equip_name": "Treadmill",
+    "status": "avaliable",
+    "location": "G10",
+    "category": "Cardio"
+  },{
+    "_id": {
+      "$oid": "64180058e2e9951b0257f927"
+    },
+    "equip_id": "043",
+    "equip_name": "Smith Machine",
+    "status": "avaliable",
+    "location": "B15",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180080e2e9951b0257f928"
+    },
+    "equip_id": "044",
+    "equip_name": "Smith Machine",
+    "status": "avaliable",
+    "location": "D15",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641800a6e2e9951b0257f92a"
+    },
+    "equip_id": "045",
+    "equip_name": "Smith Machine",
+    "status": "avaliable",
+    "location": "F15",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641800bbe2e9951b0257f92b"
+    },
+    "equip_id": "046",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "B16",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641800d6e2e9951b0257f92c"
+    },
+    "equip_id": "047",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "B17",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641800ebe2e9951b0257f92d"
+    },
+    "equip_id": "048",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "B18",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641800f8e2e9951b0257f92e"
+    },
+    "equip_id": "049",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "B19",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180107e2e9951b0257f92f"
+    },
+    "equip_id": "050",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "B20",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180114e2e9951b0257f930"
+    },
+    "equip_id": "051",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "B21",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "6418011fe2e9951b0257f931"
+    },
+    "equip_id": "052",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "B22",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180128e2e9951b0257f932"
+    },
+    "equip_id": "053",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "B23",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180131e2e9951b0257f933"
+    },
+    "equip_id": "054",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "D16",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "6418015ae2e9951b0257f935"
+    },
+    "equip_id": "055",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "D17",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180166e2e9951b0257f936"
+    },
+    "equip_id": "056",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "D18",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180170e2e9951b0257f937"
+    },
+    "equip_id": "057",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "D19",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "6418017ee2e9951b0257f938"
+    },
+    "equip_id": "058",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "D20",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "6418018ae2e9951b0257f939"
+    },
+    "equip_id": "059",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "D21",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180196e2e9951b0257f93a"
+    },
+    "equip_id": "060",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "D22",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641801a2e2e9951b0257f93b"
+    },
+    "equip_id": "061",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "D23",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641801b4e2e9951b0257f93c"
+    },
+    "equip_id": "062",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "F16",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641801c4e2e9951b0257f93d"
+    },
+    "equip_id": "063",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "F17",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641801cfe2e9951b0257f93e"
+    },
+    "equip_id": "064",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "F18",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641801d8e2e9951b0257f93f"
+    },
+    "equip_id": "065",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "F19",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641801e2e2e9951b0257f940"
+    },
+    "equip_id": "066",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "F20",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641801ece2e9951b0257f941"
+    },
+    "equip_id": "067",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "F21",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641801f5e2e9951b0257f942"
+    },
+    "equip_id": "068",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "F22",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641801fee2e9951b0257f943"
+    },
+    "equip_id": "069",
+    "equip_name": "Barbell Set",
+    "status": "avaliable",
+    "location": "F23",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180213e2e9951b0257f944"
+    },
+    "equip_id": "070",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B25",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180275e2e9951b0257f945"
+    },
+    "equip_id": "071",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B26",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180284e2e9951b0257f946"
+    },
+    "equip_id": "072",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B27",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "6418028de2e9951b0257f947"
+    },
+    "equip_id": "073",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B28",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "64180298e2e9951b0257f948"
+    },
+    "equip_id": "074",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B29",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641802a3e2e9951b0257f949"
+    },
+    "equip_id": "075",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B30",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641802ade2e9951b0257f94a"
+    },
+    "equip_id": "076",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B31",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641802b6e2e9951b0257f94b"
+    },
+    "equip_id": "077",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B32",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641802c0e2e9951b0257f94c"
+    },
+    "equip_id": "078",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B33",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641802cae2e9951b0257f94d"
+    },
+    "equip_id": "079",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B34",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641802d6e2e9951b0257f94e"
+    },
+    "equip_id": "080",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B35",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641802e3e2e9951b0257f94f"
+    },
+    "equip_id": "081",
+    "equip_name": "Adjustable Bench",
+    "status": "avaliable",
+    "location": "B36",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641802f2e2e9951b0257f950"
+    },
+    "equip_id": "082",
+    "equip_name": "Functional Trainer",
+    "status": "avaliable",
+    "location": "D25",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641803c1e2e9951b0257f951"
+    },
+    "equip_id": "083",
+    "equip_name": "Functional Trainer",
+    "status": "avaliable",
+    "location": "D27",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641803cee2e9951b0257f952"
+    },
+    "equip_id": "084",
+    "equip_name": "Functional Trainer",
+    "status": "avaliable",
+    "location": "D29",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641803dce2e9951b0257f953"
+    },
+    "equip_id": "085",
+    "equip_name": "Functional Trainer",
+    "status": "avaliable",
+    "location": "D31",
+    "category": "Free Weight"
+  },{
+    "_id": {
+      "$oid": "641803e8e2e9951b0257f954"
+    },
+    "equip_id": "086",
+    "equip_name": "Assisted Pull-up Machine",
+    "status": "avaliable",
+    "location": "D33",
+    "category": "Resistance"
+  },{
+    "_id": {
+      "$oid": "6418042be2e9951b0257f955"
+    },
+    "equip_id": "087",
+    "equip_name": "Leg Press Machine",
+    "status": "avaliable",
+    "location": "H15",
+    "category": "Resistance"
+  },{
+    "_id": {
+      "$oid": "64180456e2e9951b0257f956"
+    },
+    "equip_id": "088",
+    "equip_name": "Leg Press Machine",
+    "status": "avaliable",
+    "location": "H16",
+    "category": "Resistance"
+  },{
+    "_id": {
+      "$oid": "64180460e2e9951b0257f957"
+    },
+    "equip_id": "089",
+    "equip_name": "Leg Extension Machine",
+    "status": "avaliable",
+    "location": "H17",
+    "category": "Resistance"
+  },{
+    "_id": {
+      "$oid": "64180476e2e9951b0257f958"
+    },
+    "equip_id": "090",
+    "equip_name": "Leg Extension Machine",
+    "status": "avaliable",
+    "location": "H18",
+    "category": "Resistance"
+  },{
+    "_id": {
+      "$oid": "64180481e2e9951b0257f959"
+    },
+    "equip_id": "091",
+    "equip_name": "Chest Press Machine",
+    "status": "avaliable",
+    "location": "H19",
+    "category": "Resistance"
+  },{
+    "_id": {
+      "$oid": "64180494e2e9951b0257f95a"
+    },
+    "equip_id": "092",
+    "equip_name": "Chest Press Machine",
+    "status": "avaliable",
+    "location": "H20",
+    "category": "Resistance"
+  },{
+    "_id": {
+      "$oid": "641804a1e2e9951b0257f95b"
+    },
+    "equip_id": "093",
+    "equip_name": "Lat Pull Down Machine",
+    "status": "avaliable",
+    "location": "H21",
+    "category": "Resistance"
+  },{
+    "_id": {
+      "$oid": "641804b4e2e9951b0257f95c"
+    },
+    "equip_id": "094",
+    "equip_name": "Dip Tower",
+    "status": "avaliable",
+    "location": "H22",
+    "category": "Resistance"
+  }]
